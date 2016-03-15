@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>http://iv-yana.ua/assets/style_common.css</loc>
-    <lastmod>2016-02-02</lastmod>
+    <lastmod>2016-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -55,44 +55,170 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://iv-yana.ua/images/0_f14b4_8d6cf2f_xl.png</loc>
-    <lastmod>2016-02-02</lastmod>
+    <loc>http://iv-yana.ua/assets/ajax-loader.gif</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/config.rb</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/slick.css</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/slick.js</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/slick.less</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/slick.min.js</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/slick.scss</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/slick-theme.css</loc>
+    <lastmod>2016-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/slick-theme.less</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/slick-theme.scss</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/slider.png</loc>
+    <lastmod>2016-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/21.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/22.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/23.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/24.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/25.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/26.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/27.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/28.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/29.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/assets/210.jpg</loc>
+    <lastmod>2016-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/images/bez_imeni-1.png</loc>
+    <lastmod>2016-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://iv-yana.ua/index.html</loc>
-    <lastmod>2016-02-02</lastmod>
+    <lastmod>2016-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://iv-yana.ua/contacts.html</loc>
-    <lastmod>2016-02-02</lastmod>
+    <lastmod>2016-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://iv-yana.ua/gallery.html</loc>
-    <lastmod>2016-02-02</lastmod>
+    <lastmod>2016-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://iv-yana.ua/else.html</loc>
-    <lastmod>2016-02-02</lastmod>
+    <lastmod>2016-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://iv-yana.ua/more.html</loc>
-    <lastmod>2016-02-02</lastmod>
+    <lastmod>2016-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://iv-yana.ua/maket2.html</loc>
-    <lastmod>2016-02-02</lastmod>
+    <lastmod>2016-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -104,7 +230,37 @@
   </url>
   <url>
     <loc>http://iv-yana.ua/maket1.html</loc>
-    <lastmod>2016-02-02</lastmod>
+    <lastmod>2016-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/blog1.html</loc>
+    <lastmod>2016-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/blog2.html</loc>
+    <lastmod>2016-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/blog3.html</loc>
+    <lastmod>2016-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/blog4.html</loc>
+    <lastmod>2016-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://iv-yana.ua/wedding.html</loc>
+    <lastmod>2016-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
