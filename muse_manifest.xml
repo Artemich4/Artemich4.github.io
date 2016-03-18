@@ -1,25 +1,20 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="iv-yana.ua" resolutions="1x" timestamp="1456081731464">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="iv-yana.ua" resolutions="1x" timestamp="1458329195661">
   <folder name="css">
-    <file name="site_global.css" crc="367292764"/>
-    <file name="master_______-a.css" crc="3876518405" ref="blog3:maket2:index:blog4:maket1:contacts:wedding:gallery:blog1:else:blog2:more"/>
-    <file name="blog3.css" crc="3802597819" ref="blog3"/>
-    <file name="maket2.css" crc="3802597819" ref="maket2"/>
-    <file name="gallery2.css" crc="238196228" ref="gallery2"/>
-    <file name="index.css" crc="4191725867" ref="index"/>
-    <file name="blog4.css" crc="3802597819" ref="blog4"/>
-    <file name="maket1.css" crc="3802597819" ref="maket1"/>
-    <file name="contacts.css" crc="3802597819" ref="contacts"/>
-    <file name="wedding.css" crc="3802597819" ref="wedding"/>
-    <file name="gallery.css" crc="3774823269" ref="gallery"/>
-    <file name="blog1.css" crc="3802597819" ref="blog1"/>
-    <file name="else.css" crc="3802597819" ref="else"/>
-    <file name="blog2.css" crc="3802597819" ref="blog2"/>
-    <file name="more.css" crc="4036065152" ref="more"/>
-  </folder>
-  <folder name="fonts">
-    <file name="classicatwo.woff" crc="493867499"/>
-    <file name="classicatwo.eot" crc="4210552921"/>
-    <file name="classicatwo.svg" crc="4207440698"/>
+    <file name="site_global.css" crc="86904659"/>
+    <file name="master_______-a.css" crc="28045598" ref="blog2:blog4:gallery:else:maket2:wedding:maket1:blog1:blog3:index:contacts:more"/>
+    <file name="blog2.css" crc="4040020953" ref="blog2"/>
+    <file name="blog4.css" crc="4040020953" ref="blog4"/>
+    <file name="gallery.css" crc="3780134877" ref="gallery"/>
+    <file name="else.css" crc="4040020953" ref="else"/>
+    <file name="gallery2.css" crc="416839207" ref="gallery2"/>
+    <file name="maket2.css" crc="4040020953" ref="maket2"/>
+    <file name="wedding.css" crc="4040020953" ref="wedding"/>
+    <file name="maket1.css" crc="4040020953" ref="maket1"/>
+    <file name="blog1.css" crc="4040020953" ref="blog1"/>
+    <file name="blog3.css" crc="4040020953" ref="blog3"/>
+    <file name="index.css" crc="272822756" ref="index"/>
+    <file name="contacts.css" crc="4040020953" ref="contacts"/>
+    <file name="more.css" crc="347891886" ref="more"/>
   </folder>
   <folder name="assets">
     <file name="reset.css" crc="28263925" seo="true" mt="1303902844000"/>
@@ -33,7 +28,7 @@
     <file name="1.jpg" crc="3876884154" seo="true" mt="1454405519000"/>
     <file name="ajax-loader.gif" crc="306350068" seo="true" mt="1448810274000"/>
     <file name="config.rb" crc="4132863440" seo="true" mt="1448810274000"/>
-    <file name="slick.css" crc="410084286" seo="true" mt="1448810274000"/>
+    <file name="slick.css" crc="327285939" seo="true" mt="1456083174000"/>
     <file name="slick.js" crc="4138083444" seo="true" mt="1448810274000"/>
     <file name="slick.less" crc="4192056245" seo="true" mt="1448810274000"/>
     <file name="slick.min.js" crc="4147687915" seo="true" mt="1448810274000"/>
@@ -54,37 +49,57 @@
     <file name="210.jpg" crc="48146607" seo="true" mt="1456081493000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contacts:gallery:else:more:maket2:gallery2:maket1:blog1:blog2:blog3:blog4:wedding"/>
-    <file name="museutils.js" crc="275725342" ref="index:contacts:gallery:else:more:maket2:gallery2:maket1:blog1:blog2:blog3:blog4:wedding"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:contacts:gallery:else:more:maket2:maket1:blog1:blog2:blog3:blog4:wedding"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:contacts:gallery:else:more:maket2:gallery2:maket1:blog1:blog2:blog3:blog4:wedding"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:contacts:gallery:else:more:maket2:gallery2:maket1:blog1:blog2:blog3:blog4:wedding"/>
+    <file name="museutils.js" crc="531812214" ref="index:contacts:gallery:else:more:maket2:gallery2:maket1:blog1:blog2:blog3:blog4:wedding"/>
+    <file name="whatinput.js" crc="84559013" ref="index:contacts:gallery:else:more:maket2:gallery2:maket1:blog1:blog2:blog3:blog4:wedding"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:contacts:gallery:else:more:maket2:maket1:blog1:blog2:blog3:blog4:wedding"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:contacts:gallery:else:more:maket2:gallery2:maket1:blog1:blog2:blog3:blog4:wedding"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contacts:gallery:else:more:maket2:gallery2:maket1:blog1:blog2:blog3:blog4:wedding"/>
-    <file name="webpro.js" crc="3883484123" ref="more"/>
-    <file name="form_check.php" crc="3932029206" ref="more"/>
-    <file name="form_throttle.php" crc="314685628" ref="more"/>
-    <file name="form_process.php" crc="401030677" ref="more"/>
-    <file name="form-u864.php" crc="4259288740" ref="more"/>
+    <file name="webpro.js" crc="4156477058" ref="more"/>
+    <file name="form_check.php" crc="373582055" ref="more"/>
+    <file name="form_throttle.php" crc="211381018" ref="more"/>
+    <file name="form_process.php" crc="6354943" ref="more"/>
+    <file name="form-u864.php" crc="527822348" ref="more"/>
   </folder>
   <folder name="images">
+    <file name="bg-light-4833.jpg" crc="293871136" ref="index:contacts:gallery:else:more:maket2:maket1:blog1:blog2:blog3:blog4:wedding"/>
     <file name="bez_imeni-1.png" crc="238337172" seo="true" ref="index:contacts:gallery:else:more:maket2:maket1:blog1:blog2:blog3:blog4:wedding"/>
-    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="prev_2.jpg" crc="4269834433" seo="true" ref="gallery"/>
+    <file name="blank.gif" crc="4208392903" ref="gallery"/>
+    <file name="u1176.png" crc="488659544" ref="gallery"/>
+    <file name="u1176-r.png" crc="488659544" ref="gallery"/>
+    <file name="prev_1.jpg" crc="337254377" seo="true" ref="gallery"/>
+    <file name="u1169.png" crc="3779269289" ref="gallery"/>
+    <file name="u1169-r.png" crc="3779269289" ref="gallery"/>
+    <file name="prev_3.jpg" crc="166980256" seo="true" ref="gallery"/>
+    <file name="u1181.png" crc="3875433313" ref="gallery"/>
+    <file name="u1181-r.png" crc="3875433313" ref="gallery"/>
+    <file name="prev_5.jpg" crc="67056512" seo="true" ref="gallery"/>
+    <file name="u1199.png" crc="4266444163" ref="gallery"/>
+    <file name="u1199-r.png" crc="4266444163" ref="gallery"/>
+    <file name="prev_4.jpg" crc="4025752396" seo="true" ref="gallery"/>
+    <file name="u1194.png" crc="3770320524" ref="gallery"/>
+    <file name="u1194-r.png" crc="3770320524" ref="gallery"/>
+    <file name="u1212.png" crc="4019611725" ref="gallery"/>
+    <file name="u1212-r.png" crc="4019611725" ref="gallery"/>
+    <file name="u1214.png" crc="20387294" ref="gallery"/>
+    <file name="u1214-r.png" crc="4111454221" ref="gallery"/>
     <file name="u870-17.png" crc="4214208523" ref="more"/>
     <file name="u870-17-r.png" crc="4030640308" ref="more"/>
     <file name="u870-17-m.png" crc="4115203349" ref="more"/>
     <file name="u870-17-fs.png" crc="347683878" ref="more"/>
   </folder>
-  <file name="index.html" crc="271809420" seo="true" mt="1456081638780" redirect="true"/>
-  <file name="contacts.html" crc="3780744957" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="gallery.html" crc="425826744" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="else.html" crc="4011633740" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="more.html" crc="4117141871" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="maket2.html" crc="3797946741" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="gallery2.html" crc="4269385671" seo="true" mt="1454414774504" redirect="true"/>
-  <file name="maket1.html" crc="202601483" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="blog1.html" crc="233562666" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="blog2.html" crc="4055504205" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="blog3.html" crc="324683183" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="blog4.html" crc="152697731" seo="true" mt="1455970677246" redirect="true"/>
-  <file name="wedding.html" crc="4024852644" seo="true" mt="1455970677246" redirect="true"/>
+  <file name="index.html" crc="193309380" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="contacts.html" crc="3996314658" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="gallery.html" crc="4189175790" seo="true" mt="1458329109854" redirect="true"/>
+  <file name="else.html" crc="4273361561" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="more.html" crc="270216894" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="maket2.html" crc="4105887330" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="gallery2.html" crc="419916911" seo="true" mt="1454414774504" redirect="true"/>
+  <file name="maket1.html" crc="68036801" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="blog1.html" crc="155528870" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="blog2.html" crc="3875818581" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="blog3.html" crc="199987259" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="blog4.html" crc="3774320626" seo="true" mt="1458328082848" redirect="true"/>
+  <file name="wedding.html" crc="497038457" seo="true" mt="1458328082848" redirect="true"/>
 </manifest>
